@@ -34,7 +34,7 @@ while True:
             print(f"Your guess {yourGuess} VS Random number {randomNumber}")      
                  
         print("You lose")
-        print(f"Your guess {yourGuess} and the random number {randomNumber} is different")
+        #print(f"Your guess {yourGuess} and the random number {randomNumber} is different")
         exit()
                 
     elif choice == 3:
